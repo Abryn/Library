@@ -1,9 +1,9 @@
 # Library REST API
 
-A RESTful API built in Java and Spring Boot for managing a simulated book library.
+A simple but clean RESTful API built in Java and Spring Boot for managing a simulated book library. \
+Built as a personal learning project to explore Spring Boot, REST API design, and backend development.
 
 ## Features
-
 - Full CRUD operations (create, read, update, delete)
 - Input validation with Jakarta Bean Validation
 - Global error handling with error messages
